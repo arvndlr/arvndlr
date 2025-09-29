@@ -47,7 +47,6 @@ I’m passionate about building practical and impactful software solutions — f
 ---
 
 ## 📊 GitHub Stats  
-![Arvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=arvndlr&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arvndlr&layout=compact&theme=radical)  
 
 ---
