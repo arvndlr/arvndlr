@@ -27,14 +27,24 @@ Outside of coding, I enjoy playing **basketball 🏀** — it keeps me active, s
 
 ---
 
-## 📊 Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arvndlr&layout=compact&theme=radical)
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h2>📊 Most Used Languages:</h2>
+      <a href="https://github.com/arvndlr">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvndlr&layout=compact&theme=radical" alt="Top Languages" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h2>📌 Pinned Projects:</h2>
+      - <a href="https://github.com/arvndlr/Student-Payment-Kiosk-02">Student-Payment-Kiosk-Using-NFC</a>
+      - <a href="https://github.com/arvndlr/laptop-security-app">Laptop-Security-App</a>
+      - <a href="https://github.com/arvndlr/File-Manager-Using-Biometrics">File-Management-Using-Biometrics</a>
+    </td>
+  </tr>
+</table>
 
-## 📌 Pinned Projects:
-- [Student-Payment-Kiosk-Using-NFC](https://github.com/arvndlr/Project-1](https://github.com/arvndlr/Student-Payment-Kiosk-02))  
-- [Laptop-Security-App](https://github.com/arvndlr/JS-To-Do](https://github.com/arvndlr/laptop-security-app))  
-- [File-Management-Using-Biometrics](https://github.com/arvndlr/File-Manager-Using-Biometrics)  
-
+---
 ---
 
 
