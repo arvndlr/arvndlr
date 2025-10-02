@@ -37,8 +37,8 @@ Outside of coding, I enjoy playing **basketball 🏀** — it keeps me active, s
     </td>
     <td width="50%" valign="top">
       <h2>📌 Pinned Projects:</h2>
-      - <a href="https://github.com/arvndlr/Student-Payment-Kiosk-02">Student-Payment-Kiosk-Using-NFC</a>
-      - <a href="https://github.com/arvndlr/laptop-security-app">Laptop-Security-App</a>
+      - <a href="https://github.com/arvndlr/Student-Payment-Kiosk-02">Student-Payment-Kiosk-Using-NFC</a><br>
+      - <a href="https://github.com/arvndlr/laptop-security-app">Laptop-Security-App</a><br>
       - <a href="https://github.com/arvndlr/File-Manager-Using-Biometrics">File-Management-Using-Biometrics</a>
     </td>
   </tr>
