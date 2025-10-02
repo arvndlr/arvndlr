@@ -1,54 +1,48 @@
-# 👋 Hi, I’m Arvin  
+# Hi there 👋, my name is Arvin!  
 
-💻 **Software Developer | Computer Engineering Graduate | Tech Enthusiast**  
+### An Aspiring Full-Stack Developer  
 
-I’m passionate about building practical and impactful software solutions — from **web apps** to **IoT projects**. I enjoy solving problems, learning emerging technologies, and collaborating on meaningful projects.  
-
----
-
-## 🚀 About Me  
-- 🎓 Computer Engineering graduate (STI College)  
-- 🌱 Currently improving my **frontend development** and **system integration** skills  
-- 🛠️ Hands-on experience in:  
-  - Web development (**MERN stack, Flask, .NET**)  
-  - IoT & Embedded systems (**ESP32, Raspberry Pi, Arduino**)  
-  - Databases (**PostgreSQL, Firebase**)  
-- 🔍 Interested in **QA Testing**, **Frontend Dev**, and **IoT-based security systems**  
-- ⚡ Fun fact: I’m also exploring **Forex trading** 📈  
+Seeing great ideas and concepts come alive and turn into reality is what I love most about programming.  
+Outside of coding, I enjoy playing **basketball 🏀** — it keeps me active, sharp, and a great team player.  
 
 ---
 
-## 🛠️ Tech Stack  
-**Languages & Tools:**  
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
-
-**Hardware & IoT:**  
-`ESP32` · `Arduino` · `Raspberry Pi` · `Sensors & Modules`  
-
----
-
-## 📊 GitHub Stats  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arvndlr&layout=compact&theme=radical)  
+## 🚀 Languages and Tools:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".net" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+</p>
 
 ---
 
-## 📫 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/arvndlr/)  
-- 🐦 [Twitter](https://x.com/arvndlr)  
-- 🌐 [Portfolio Website](https://arvin-personal-portfolio.vercel.app/?fbclid=IwY2xjawNHhwVleHRuA2FlbQIxMABicmlkETFuYVR5UTEwbm5CTDNWMGxQAR5pap1NvUC5Q9_s2QO0uH4yTpixvvcf7wdwTai8llO679GqAZUqFpyY7sj6lg_aem_cKiGdznMrv4EtSlgrM5HLA)  
-- ✉️ Email: **rvn.dlsrys@gmail.com**  
+## 📊 Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arvndlr&layout=compact&theme=radical)
 
 ---
 
-✨ _“I believe in continuous learning, building with purpose, and leading by example.”_  
+## 📌 Pinned Projects:
+- [Project-1](https://github.com/arvndlr/Project-1)  
+- [JS-To-Do](https://github.com/arvndlr/JS-To-Do)  
+- [Appointment_System_UI](https://github.com/arvndlr/Appointment_System_UI)  
+- [Hangman](https://github.com/arvndlr/Hangman)  
+
+---
+
+## 🤝 Connect with me:
+<p>
+  <a href="https://www.linkedin.com/in/arvndlr/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/></a>
+  <a href="https://x.com/arvndlr"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" width="40"/></a>
+  <a href="mailto:rvn.dlsrys@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="40"/></a>
+</p>
