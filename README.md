@@ -29,13 +29,13 @@ Outside of coding, I enjoy playing **basketball 🏀** — it keeps me active, s
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <h2>📊 Most Used Languages:</h2>
       <a href="https://github.com/arvndlr">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvndlr&layout=compact&theme=radical" alt="Top Languages" />
       </a>
     </td>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <h2>📌 Pinned Projects:</h2>
       - <a href="https://github.com/arvndlr/Student-Payment-Kiosk-02">Student-Payment-Kiosk-Using-NFC</a><br>
       - <a href="https://github.com/arvndlr/laptop-security-app">Laptop-Security-App</a><br>
