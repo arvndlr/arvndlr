@@ -5,6 +5,8 @@
 Seeing great ideas and concepts come alive and turn into reality is what I love most about programming.  
 Outside of coding, I enjoy playing **basketball 🏀** — it keeps me active, sharp, and a great team player.  
 
+<img align="right" alt="Basketball GIF" width="300" src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" />
+
 ---
 
 ## 🚀 Languages and Tools:
