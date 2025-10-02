@@ -38,14 +38,6 @@ I’m passionate about building practical and impactful software solutions — f
 
 ---
 
-## 📌 Featured Projects  
-🔹 **Hair Grooming Web App** – MERN stack scheduling system  
-🔹 **Tabing Ilog Website** – Static website for a local coffee shop  
-🔹 **Student Payment Kiosk** – .NET + PostgreSQL with NFC & PayMongo integration  
-🔹 **Laptop Security System** – Flask + ESP32 + iBeacon with real-time tracking  
-
----
-
 ## 📊 GitHub Stats  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arvndlr&layout=compact&theme=radical)  
 
