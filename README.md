@@ -33,8 +33,8 @@ Outside of coding, I enjoy playing **basketball 🏀** — it keeps me active, s
 ---
 
 ## 📌 Pinned Projects:
-- [Student-Payment-Kiosk-Using-NFC]([https://github.com/arvndlr/Project-1](https://github.com/arvndlr/Student-Payment-Kiosk-02))  
-- [Laptop-Security-App]([https://github.com/arvndlr/JS-To-Do](https://github.com/arvndlr/laptop-security-app))  
+- [Student-Payment-Kiosk-Using-NFC](https://github.com/arvndlr/Project-1](https://github.com/arvndlr/Student-Payment-Kiosk-02))  
+- [Laptop-Security-App](https://github.com/arvndlr/JS-To-Do](https://github.com/arvndlr/laptop-security-app))  
 - [File-Management-Using-Biometrics](https://github.com/arvndlr/File-Manager-Using-Biometrics)  
 
 ---
