@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Arvin!  
 
-### An Aspiring Full-Stack Developer  
+### A Full-Stack Developer  
 
 Seeing great ideas and concepts come alive and turn into reality is what I love most about programming.  
 Outside of coding, I enjoy playing **basketball 🏀** — it keeps me active, sharp, and a great team player.  
